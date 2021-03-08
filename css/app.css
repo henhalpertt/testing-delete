@@ -1,7 +1,7 @@
 .destination:hover h2 {
     transform: rotate(0deg);
     margin: 0;
-    transform: rotate(-45deg);
+    transform: rotate(-55deg);
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
